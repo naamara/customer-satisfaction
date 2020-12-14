@@ -1,4 +1,4 @@
-# customer-satisfaction
+# Customer Satisfaction
 A Machine Learning model
 How it works
 
